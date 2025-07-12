@@ -1,6 +1,6 @@
 ---
 
-### 📚 **Simple Java Library System (OOP + Dependency Injection)**
+### 📚 **Simple Java Library System (OOP + Dependency Injection)
 
 A beginner-friendly **Java console application** that simulates a basic library system.
 Built using clean **object-oriented principles**, including:

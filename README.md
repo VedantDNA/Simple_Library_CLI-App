@@ -1,4 +1,3 @@
----
 
 ### 📚 Simple Java Library System (OOP + Dependency Injection)
 
